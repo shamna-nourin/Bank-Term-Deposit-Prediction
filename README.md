@@ -90,7 +90,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 ```bash
-streamlit run app.py
+streamlit run banking.py
 ```
 
 ## 📌 Future Improvements
