@@ -45,9 +45,10 @@ The project uses a bank marketing dataset containing customer information and ca
 
 The project explores classification algorithms such as:
 
-- Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
+- Gradient Boosting Classifier
+- XGB Classifier
 
 ## 📈 Model Evaluation
 
